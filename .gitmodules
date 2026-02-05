@@ -1,0 +1,3 @@
+[submodule "lib/rocm_smi_lib"]
+	path = lib/rocm_smi_lib
+	url = https://github.com/rocm/rocm_smi_lib.git
